@@ -1,6 +1,4 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
-<<<<<<< HEAD
 Romain: Hello ! Pleased to join the Machine Learning class
-=======
 Anne-Claire: the sun is up 
->>>>>>> 064f7d3c7e3499af1a34eb1d2f6f2941078372e2
+
