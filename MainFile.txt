@@ -1,2 +1,3 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
 Nicolas: A random sentence
+Huimin CAO: A new message!
