@@ -1,8 +1,12 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
 <<<<<<< HEAD
+<<<<<<< HEAD
 Romain: Hello ! Pleased to join the Machine Learning class
 Anne-Claire: the sun is up 
 chialing: Bonjour! I don't speak french.
 =======
 Benedetta: Ciao!
 >>>>>>> eb7b71b3559a4049d2f0fdab8ff80604f793591f
+=======
+Ijeoma: Hello everyone.
+>>>>>>> 1ff186b30103482858e9a05f8b1299e03339b1b4
