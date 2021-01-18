@@ -1,1 +1,2 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
+Victoria: Hello.
