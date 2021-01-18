@@ -1,4 +1,4 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
 Romain: Hello ! Pleased to join the Machine Learning class
 Anne-Claire: the sun is up 
-
+chialing: Bonjour! I don't speak french.
