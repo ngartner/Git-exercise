@@ -1,1 +1,2 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
+Florent : Roses are red, violets are blue, I struggled to get here and I imagine so did you :D
