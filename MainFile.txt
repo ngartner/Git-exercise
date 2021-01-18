@@ -1,2 +1,6 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
-hi
+<<<<<<< HEAD
+=======
+Nicolas: Some sentence that I would like to write
+>>>>>>> b5a0cf2a7e36c557028c2e6ea906104e66448f88
+mariam:hi
