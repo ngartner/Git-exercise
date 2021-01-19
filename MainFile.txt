@@ -1,1 +1,2 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
+Uma: Hello! Hope you all are having a good day!
