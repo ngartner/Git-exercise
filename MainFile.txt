@@ -1,1 +1,2 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
+Antariksha: Hello everyone! I hope you all are enjoying the class
