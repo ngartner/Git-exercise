@@ -1,2 +1,1 @@
-Nicolas: Hello ! Welcome to the Machine Learning class
 Xiao: hi
