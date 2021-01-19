@@ -8,3 +8,5 @@ Uma: Hello! Hope you all are having a good day!
 
 Xingyuan: Have a drink?
 
+Paul : Git seems to be working properly
+
